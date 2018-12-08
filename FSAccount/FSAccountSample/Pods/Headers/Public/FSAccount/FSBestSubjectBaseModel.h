@@ -1,0 +1,1 @@
+../../../../../FSAccount/Classes/FSBestSubjectBaseModel.h
