@@ -1,0 +1,2 @@
+# FSLocalTempLibrary
+用于本地临时打包，希望代码不需要提交到github也能用本地的路径打静态库
