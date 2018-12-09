@@ -1,6 +1,6 @@
 {
   "name": "FSAccount",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "summary": "FSAccount is a tool for show logs when app run",
   "description": "This is a very small software library, offering a few methods to help with programming.",
   "homepage": "https://github.com/fuchina/FSAccount",
@@ -12,8 +12,8 @@
     "fudon": "1245102331@qq.com"
   },
   "source": {
-    "git": "/Users/fudonfuchina/Documents/github/FSLocalTempLibrary/FSAccount",
-    "tag": "0.0.2"
+    "git": "https://github.com/fuchina/FSLocalTempLibrary.git",
+    "tag": "0.0.6"
   },
   "public_header_files": [
     "FSAccount/Classes/*.h",

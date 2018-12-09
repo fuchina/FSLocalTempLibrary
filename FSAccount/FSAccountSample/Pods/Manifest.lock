@@ -1,5 +1,5 @@
 PODS:
-  - FSAccount (0.0.2):
+  - FSAccount (0.0.6):
     - FSDBMaster
     - FSShare
     - FSToast
@@ -60,7 +60,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FSAccount: c640fe34f892cf5b53c3b8faa69d458a0a4ee74a
+  FSAccount: 5247320a84bf8d213cc4e149ede89cdf7d767d8f
   FSCalculator: 3ab79307b008ebf07b4fa7fe827f418d7c65fd14
   FSDBMaster: 11fe5459459c30a00354577b946977b1b5dee162
   FSKit: 1578169720d621fb12b806a8d0faf8ba95afb0e2

@@ -1,0 +1,18 @@
+dependencies: \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSTextViewController.m \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/Target\ Support\ Files/FSUIKit/FSUIKit-prefix.pch \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSTextViewController.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSBaseController.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSNavigationController.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSTapScrollView.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSVanView.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSLabel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSViewManager.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSTapLabel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/FSTapCell.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/PHTextView.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/UIViewExt.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSToast/FSToast/Classes/FSToast.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/Headers/Public/FSKit/FuSoft.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSUIKit/FSUIKit/Classes/UIViewController+BackButtonHandler.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-3e7n30sl/Pods/FSKit/FSKit/Classes/FuSoft.h
