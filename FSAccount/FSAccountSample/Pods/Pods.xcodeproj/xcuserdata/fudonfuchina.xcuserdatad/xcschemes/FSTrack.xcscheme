@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6176273DB5E14C78B6BE626DD3E5D7F4"
+               BlueprintIdentifier = "8C7DD3E092B2E0DE0BA9F60243BEC356"
                BlueprintName = "FSTrack"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libFSTrack.a">

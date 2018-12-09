@@ -1,0 +1,37 @@
+dependencies: \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSDBSupport.m \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Target\ Support\ Files/FSAccount/FSAccount-prefix.pch \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSDBSupport.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSDBMaster/FSDBMaster/Classes/FSDBMaster.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSSQLEntity.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSMacro.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSViewManager.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSTapLabel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSTapCell.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/PHTextView.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSKitDuty.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Headers/Public/FSKit/FSKit.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Headers/Public/FSKit/FSRuntime.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/Reachability.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/FSBestAccountModel.h \
+  /private/var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/FSBaseBestAccountModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/UIViewExt.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSToast/FSToast/Classes/FSToast.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Headers/Public/FSKit/FuSoft.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSTrackKeys.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Headers/Public/FSTrack/FSTrack.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSDBTool.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSTuple/FSTuple/Classes/FSTuple.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/Headers/Public/FSKit/FSFile.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSABModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSABBaseModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSAppModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSABTrackModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FATool.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSAccountConfiger.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSDiaryModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSCryptor.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSPwdBookModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSAccount/FSAccount/Classes/imports/FSContactModel.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSKit/FSKit/Classes/FSDate.h \
+  /var/folders/9b/t7cyp68d17q_jwtdbk0_vxfc0000gn/T/cocoapods-t6vnewuj/Pods/FSKit/FSKit/Classes/FSRuntime.h
