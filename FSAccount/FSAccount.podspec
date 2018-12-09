@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FSAccount'
-  s.version          = '0.0.5'
+  s.version          = '0.0.6'
   s.summary          = 'FSAccount is a tool for show logs when app run'
   s.description      = <<-DESC
 		This is a very small software library, offering a few methods to help with programming.
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fudon' => '1245102331@qq.com' }
   
-  s.source           = { :git => '/Users/fudonfuchina/Documents/github/FSLocalTempLibrary/FSAccount', :tag => s.version.to_s}
+  s.source           = { :git => 'https://github.com/fuchina/FSLocalTempLibrary.git', :tag => s.version.to_s}
 
   s.public_header_files = 'FSAccount/Classes/*.h','FSAccount/Classes/imports/*.h'
   
