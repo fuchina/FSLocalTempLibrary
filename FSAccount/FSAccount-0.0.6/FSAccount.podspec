@@ -6,7 +6,8 @@ Pod::Spec.new do |s|
   s.authors = {"fudon"=>"1245102331@qq.com"}
   s.homepage = "https://github.com/fuchina/FSAccount"
   s.description = "This is a very small software library, offering a few methods to help with programming."
-  s.frameworks = "UIKit"
+  s.frameworks = ["UIKit", "AVFoundation", "CoreGraphics", "Security", "SystemConfiguration"]
+  s.libraries = ["c++", "sqlite3", "z"]
   s.source = { :path => '.' }
 
   s.ios.deployment_target    = '8.0'

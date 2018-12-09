@@ -1,6 +1,6 @@
 {
   "name": "FSAccount",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "FSAccount is a tool for show logs when app run",
   "description": "This is a very small software library, offering a few methods to help with programming.",
   "homepage": "https://github.com/fuchina/FSAccount",
@@ -13,12 +13,8 @@
   },
   "source": {
     "git": "https://github.com/fuchina/FSLocalTempLibrary.git",
-    "tag": "0.0.6"
+    "tag": "0.0.7"
   },
-  "public_header_files": [
-    "FSAccount/Classes/*.h",
-    "FSAccount/Classes/imports/*.h"
-  ],
   "platforms": {
     "ios": "8.0"
   },
@@ -26,7 +22,18 @@
     "FSAccount/Classes/*",
     "FSAccount/Classes/imports/*"
   ],
-  "frameworks": "UIKit",
+  "frameworks": [
+    "UIKit",
+    "AVFoundation",
+    "CoreGraphics",
+    "Security",
+    "SystemConfiguration"
+  ],
+  "libraries": [
+    "c++",
+    "sqlite3",
+    "z"
+  ],
   "dependencies": {
     "FSToast": [
 

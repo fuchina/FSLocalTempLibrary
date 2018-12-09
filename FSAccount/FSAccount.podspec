@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FSAccount'
-  s.version          = '0.0.6'
+  s.version          = '0.0.7'
   s.summary          = 'FSAccount is a tool for show logs when app run'
   s.description      = <<-DESC
 		This is a very small software library, offering a few methods to help with programming.
@@ -12,11 +12,12 @@ Pod::Spec.new do |s|
   
   s.source           = { :git => 'https://github.com/fuchina/FSLocalTempLibrary.git', :tag => s.version.to_s}
 
-  s.public_header_files = 'FSAccount/Classes/*.h','FSAccount/Classes/imports/*.h'
+  #s.public_header_files = 'FSAccount/Classes/*.h','FSAccount/Classes/imports/*.h'
   
   s.ios.deployment_target = '8.0'
   s.source_files = 'FSAccount/Classes/*','FSAccount/Classes/imports/*'
-  s.frameworks = 'UIKit'
+  s.frameworks =  'UIKit','AVFoundation', 'CoreGraphics', 'Security', 'SystemConfiguration'
+  s.libraries = 'c++', 'sqlite3', 'z'
   
   s.dependency   'FSToast'
   s.dependency   'FSUIKit'  
